@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<rect x="62.851" y="66.958" transform="matrix(-0.7013 -0.7128 0.7128 -0.7013 145.8925 359.6994)" fill="none" stroke="#000000" stroke-width="1.9384" stroke-miterlimit="10" width="170.901" height="164.656"/>
+<text transform="matrix(1 0 0 1 11.7339 143.0771)" font-family="'MyriadPro-Regular'" font-size="36">a</text>
+<text transform="matrix(1 0 0 1 125.6641 31.1367)" font-family="'MyriadPro-Regular'" font-size="36">b</text>
+<text transform="matrix(1 0 0 1 270.9385 155.5146)" font-family="'MyriadPro-Regular'" font-size="36">c</text>
+<text transform="matrix(1 0 0 1 143.0771 290.3398)" font-family="'MyriadPro-Regular'" font-size="36">d</text>
+<text transform="matrix(1 0 0 1 105.2661 102.2813)" font-family="'MyriadPro-Regular'" font-size="12">(a x d) - c = b</text>
+<text transform="matrix(1 0 0 1 104.7686 116.709)" font-family="'MyriadPro-Regular'" font-size="12">(a x d) - b = c</text>
+<text transform="matrix(1 0 0 1 105.2661 132.1318)" font-family="'MyriadPro-Regular'" font-size="12" text-decoration=" underline">b + c</text>
+<text transform="matrix(1 0 0 1 129.709 132.1318)" font-family="'MyriadPro-Regular'" font-size="12"> = a</text>
+<text transform="matrix(1 0 0 1 115.3809 143.0771)" font-family="'MyriadPro-Regular'" font-size="12">d</text>
+<text transform="matrix(1 0 0 1 104.271 160.9873)" font-family="'MyriadPro-Regular'" font-size="12" text-decoration=" underline">b + c</text>
+<text transform="matrix(1 0 0 1 128.7139 160.9873)" font-family="'MyriadPro-Regular'" font-size="12"> = d</text>
+<text transform="matrix(1 0 0 1 115.3809 171.9043)" font-family="'MyriadPro-Regular'" font-size="12">a</text>
+</svg>

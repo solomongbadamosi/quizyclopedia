@@ -1,0 +1,21 @@
+<IfModule mod_rewrite.c>
+		RewriteEngine on
+		RewriteBase /quizyclopedia/final/
+
+		RewriteCond $1 !^(index\.php|resources|robots\.txt|static) [NC]
+		RewriteCond %{REQUEST_FILENAME} !-f
+		RewriteCond %{REQUEST_FILENAME} !-d
+		RewriteRule ^(.*)$ index.php/?$1 [L,QSA]
+		
+		#for https configuration
+		#RewriteCond %{HTTP_HOST} quizyclopedia\.com [NC]
+		#RewriteCond %{SERVER_PORT} 80
+		#RewriteRule ^(.*)$ quizyclopedia.com/$1 [R,L]
+		
+</IfModule>
+
+<IfModule !mod_rewrite.c>
+    # If we don't have mod_rewrite installed, all 404's
+    # can be sent to index.php, and everything works as normal.
+    ErrorDocument 404 /application/errors/404.php
+</IfModule>

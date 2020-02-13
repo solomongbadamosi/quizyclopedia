@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="27,54.5 150,54.5 278,54.5 "/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M152.5,55v196c0,0,60.297,81.827,125.5,0"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M152.5,251c0,0-70.129,75.736-125.5,0"/>
+<text transform="matrix(1 0 0 1 9.3003 50.8984)" font-family="'MyriadPro-Regular'" font-size="48">a</text>
+<text transform="matrix(1 0 0 1 136.3442 50.8984)" font-family="'MyriadPro-Regular'" font-size="48">b</text>
+<text transform="matrix(1 0 0 1 264.1211 50.8984)" font-family="'MyriadPro-Regular'" font-size="48">c</text>
+<text transform="matrix(1 0 0 1 13.4639 247.8525)" font-family="'MyriadPro-Regular'" font-size="48">d</text>
+<text transform="matrix(1 0 0 1 265.9756 249.0352)" font-family="'MyriadPro-Regular'" font-size="48">e</text>
+<text transform="matrix(1 0 0 1 33.5586 84.3857)" font-family="'MyriadPro-Regular'" font-size="18">a = b + d</text>
+<text transform="matrix(1 0 0 1 33.5586 102.1216)" font-family="'MyriadPro-Regular'" font-size="18">b = a - d </text>
+<text transform="matrix(1 0 0 1 33.5586 119.8271)" font-family="'MyriadPro-Regular'" font-size="18">d = a - b</text>
+<text transform="matrix(1 0 0 1 33.5586 138.5786)" font-family="'MyriadPro-Regular'" font-size="18">c = d + e - a</text>
+<text transform="matrix(1 0 0 1 33.5586 155.2988)" font-family="'MyriadPro-Regular'" font-size="18">e = a + c - d</text>
+</svg>

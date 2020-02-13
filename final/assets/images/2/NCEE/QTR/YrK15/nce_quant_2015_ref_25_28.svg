@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="149.5" y1="15" x2="149.5" y2="289"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="14" y1="152.5" x2="285" y2="152.5"/>
+<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="63.03,141.682 72.482,153.124 59.547,161.582 "/>
+<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="141.139,73.522 149.597,60.089 157.06,71.035 "/>
+<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="221.239,140.687 232.184,152.627 220.741,161.084 "/>
+<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="138.154,236.209 149.1,222.776 160.045,234.219 "/>
+<rect x="117.5" y="129.5" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="63" height="45"/>
+<text transform="matrix(1 0 0 1 142.6318 158.0996)" font-family="'MyriadPro-Regular'" font-size="36">e</text>
+<text transform="matrix(1 0 0 1 4.3232 150.1392)" font-family="'MyriadPro-Regular'" font-size="36">a</text>
+<text transform="matrix(1 0 0 1 151.0898 32.7759)" font-family="'MyriadPro-Regular'" font-size="36">b</text>
+<text transform="matrix(1 0 0 1 268.0049 149.6416)" font-family="'MyriadPro-Regular'" font-size="36">c</text>
+<text transform="matrix(1 0 0 1 152.582 291.4326)" font-family="'MyriadPro-Regular'" font-size="36">d</text>
+<text transform="matrix(1 0 0 1 18.7515 57.1045)" font-family="'MyriadPro-Regular'" font-size="12">(b + d) - (a + c) = e</text>
+<text transform="matrix(1 0 0 1 18.2539 73.5225)" font-family="'MyriadPro-Regular'" font-size="12">b  = e + a + c - d</text>
+<text transform="matrix(1 0 0 1 18.7515 88.4478)" font-family="'MyriadPro-Regular'" font-size="12">d  = e + a + c - b</text>
+<text transform="matrix(1 0 0 1 16.7612 103.8706)" font-family="'MyriadPro-Regular'" font-size="12">a  = (b + d) - (e + c)</text>
+<text transform="matrix(1 0 0 1 15.7661 117.8008)" font-family="'MyriadPro-Regular'" font-size="12">c  = (b + d) - (e + a)</text>
+</svg>

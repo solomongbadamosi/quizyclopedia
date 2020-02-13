@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="23.9561" y1="147.4951" x2="268.0791" y2="147.4951">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" stroke="#000000" stroke-width="1.7331" stroke-miterlimit="10" d="M23.956,245.285l13.711-12.312
+		l28.749-25.815c0,0,31.084-16.658,37.261-23.396c6.644-5.489,36.395-32.928,37.838-37.549c1.444-4.623,1.155-33.218,7.509-32.64
+		c4.912-5.199,84.343-80.866,84.343-80.866s8.374-5.776,14.152,0c3.179-0.579,4.91-4.91,6.065-4.333
+		c1.156,0.577,9.244,4.62,14.444,11.842c0.577,1.733-4.046,6.066-4.046,6.066s3.179,10.976,0.58,12.709
+		c-2.601,1.733-82.897,89.251-87.521,86.941c-1.732,0.866-20.506,8.83-25.995,9.82c-8.298,1.497-24.553,19.933-27.153,21.953
+		c-2.599,2.021-35.645,35.794-36.683,47.658c-0.207,2.365-43.326,41.305-43.326,41.305L23.956,245.285z"/>
+	<polygon fill="#FFFFFF" stroke="#000000" stroke-width="1.7331" stroke-miterlimit="10" points="56.013,253.313 38.393,232.517 
+		25.396,244.069 44.17,265.156 	"/>
+	<path fill="#FFFFFF" stroke="#000000" stroke-width="1.7331" stroke-miterlimit="10" d="M247.804,31.194
+		c0,0,17.909,10.397,17.044,26.284l-7.513,6.354c-2.887,5.199,10.688-20.219-11.841-13.864
+		c3.177-19.064-15.021-14.442-15.021-14.442S239.426,24.262,247.804,31.194z"/>
+	<path fill="#FFFFFF" stroke="#000000" stroke-width="1.7331" stroke-miterlimit="10" d="M150.5,113c0,0-2.349,19.288,15.561,11.201
+		c0,0-3.198,19.627,12.689,19.049c0,0-18.177,9.548-19.332,8.391c-1.155-1.155-7.465-15.896-16.418-12.141
+		C142.133,138.922,146.167,111.258,150.5,113z"/>
+	
+		<line fill="#FFFFFF" stroke="#000000" stroke-width="1.7331" stroke-miterlimit="10" x1="166.061" y1="124.201" x2="245.494" y2="49.968"/>
+</g>
+</svg>

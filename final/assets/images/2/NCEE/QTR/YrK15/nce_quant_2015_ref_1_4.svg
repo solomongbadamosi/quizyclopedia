@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="150px" height="150px" viewBox="0 0 150 150" enable-background="new 0 0 150 150" xml:space="preserve">
+<g>
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-width="1.1014" stroke-miterlimit="10" points="53.722,15.187 66.333,25.358 
+			53.722,34.517 		"/>
+		<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="29,25.5 123.299,25.5 29.653,87.5 124,87.5 		"/>
+		<polyline fill="none" stroke="#000000" stroke-width="1.2219" stroke-miterlimit="10" points="89.5,77.386 73.979,87.557 
+			89.5,96.716 		"/>
+		<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="85.266,40.184 79.99,54.5 91,54.5 		"/>
+	</g>
+	<text transform="matrix(0.9857 0 0 1 19.3604 25.6211)" font-family="'MyriadPro-Regular'" font-size="17.8133">a</text>
+	<text transform="matrix(0.9857 0 0 1 127.6719 24.8506)" font-family="'MyriadPro-Regular'" font-size="17.8133">b</text>
+	<text transform="matrix(0.9857 0 0 1 125.3203 87.0508)" font-family="'MyriadPro-Regular'" font-size="17.8133">d</text>
+	<text transform="matrix(0.9857 0 0 1 17.79 89.4238)" font-family="'MyriadPro-Regular'" font-size="17.8133">c</text>
+	<text transform="matrix(1 0 0 1 17.4336 104.5801)" font-family="'MyriadPro-Regular'" font-size="12">b = c - a</text>
+	<g enable-background="new    ">
+		<path d="M22.447,120.303c-0.276,0.144-0.887,0.336-1.667,0.336c-1.751,0-2.891-1.188-2.891-2.963c0-1.787,1.224-3.082,3.119-3.082
+			c0.624,0,1.175,0.156,1.463,0.3l-0.24,0.815c-0.252-0.144-0.647-0.275-1.223-0.275c-1.332,0-2.051,0.983-2.051,2.194
+			c0,1.344,0.864,2.171,2.015,2.171c0.6,0,0.996-0.156,1.295-0.288L22.447,120.303z"/>
+		<path d="M25.833,116.477v-0.72h6.189v0.72H25.833z M25.833,118.827v-0.72h6.189v0.72H25.833z"/>
+		<path d="M40.938,112.003v7.017c0,0.516,0.012,1.104,0.048,1.499h-0.947l-0.048-1.008h-0.024c-0.324,0.648-1.032,1.14-1.979,1.14
+			c-1.403,0-2.483-1.188-2.483-2.95c-0.012-1.931,1.188-3.118,2.603-3.118c0.888,0,1.487,0.42,1.751,0.888h0.024v-3.467H40.938z
+			 M39.883,117.076c0-0.132-0.012-0.312-0.048-0.443c-0.156-0.672-0.731-1.224-1.523-1.224c-1.091,0-1.739,0.96-1.739,2.243
+			c0,1.175,0.576,2.146,1.715,2.146c0.708,0,1.355-0.468,1.547-1.259c0.036-0.145,0.048-0.288,0.048-0.456V117.076z"/>
+		<path d="M41.961,114.762l0.755-0.695c0.996-0.912,1.511-1.476,1.511-2.087c0-0.456-0.288-0.828-0.912-0.828
+			c-0.419,0-0.779,0.204-1.007,0.372l-0.252-0.552c0.324-0.264,0.864-0.504,1.463-0.504c1.127,0,1.595,0.72,1.595,1.355
+			c0,0.911-0.684,1.571-1.595,2.363l-0.372,0.335v0.024H45.2v0.659h-3.238V114.762z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 15.8911 135.1719)" font-family="'MyriadPro-Regular'" font-size="12">a = c - b</text>
+	<text transform="matrix(1 0 0 1 81.7393 107.666)" font-family="'MyriadPro-Regular'" font-size="12">d = √c</text>
+</g>
+</svg>

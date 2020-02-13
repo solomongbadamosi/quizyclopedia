@@ -1,0 +1,655 @@
+a:2:{s:6:"expire";i:1550824581;s:7:"headers";a:0:{}}ENDCI---><!DOCTYPE html><html lang="en"><head><meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=yes"><link rel="icon" type="image/png" href="http://127.0.0.1/final/assets/brand/favicon.png"><meta name="author" content="quizyclopedia"><meta name="description" content="A computer based test for Most past examinations in Nigeria"><meta name="keywords" content="past questions, JAMB, WAEC, NECO, Common Entrance, CBT, GCE, Computer Based Test, Computer Based Examination"><meta charset="UTF-8"><title>Quizyclopedia</title><link href="http://127.0.0.1/final/assets/site/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link href="http://127.0.0.1/final/assets/site/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css" />
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css"><link href="http://127.0.0.1/final/assets/site/css/agency.min.css" rel="stylesheet" type="text/css" />
+</head><body id="page-top">  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+    <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">
+             <object class="navbar-brand logo mr-3 img-fluid" width="150" height="30" type="image/svg+xml" data="http://127.0.0.1/final/assets/brand/logo.svg"></object>        </a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav text-uppercase ml-auto">
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#quizyclopedia">Quizyclopedia</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#body">Bodies</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#services">Services</a>
+          </li>
+                    <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+<header class="masthead">
+    <div class="container">
+      <div class="intro-text">
+        <div class="intro-lead-in"><span class="text-success">SUCCESS</span> begins with <span class="text-warning">PREPARATION</span>!</div>
+        <div class="h1 text-uppercase"><h1>QUIZYCLOPEDIA</h1></div><a href="http://127.0.0.1/final/user/login" class="btn btn-primary btn-xl text-uppercase js-scroll-trigger">Sign Up/LogIn</a><div style="background-color: green; margin: 2px; text-align: center"><p style="color:white"></p></div><div style="background-color: red; text-align: center"><p style="color:white"></p></div></div>
+    </div>
+  </header><section id="quizyclopedia"><div class="container"><div class="row"><div class="col-lg-12 text-center"><h3 class="section-heading text-uppercase">Quizyclopedia</h3><h3 class="section-subheading text-muted">The Nigeria's First Questions Encyclopedia</h3></div></div><div class="row text-center"><div class="col"><span class="fa-stack fa-4x"><object class="img-fluid img-thumbnail" width="675" height="135" type="image/svg+xml" data="http://127.0.0.1/final/assets/brand/quizyclopedia.svg"></object></span><h4 class="service-heading pt-3">About Me</h4><p class="text-muted">Quizyclopedia is a web-based Application, specifically designed to archive <span class="font-weight-bold">Most</span> of the Examinations conducted in Nigeria.</p><p class="text-muted">With the trending changes and challenges in the world of technology which is greatly impacting almost every aspects of life, career and Eduction system, there is surely a need to be up and running 
+        with these changes in order to stay informed and relevant.</p><p class="text-muted">Quizyclopedia has the advantages of saving students' time and energy consumed during examination preparation period using
+        the traditional pen-to-paper approach of practicing past questions; and makes them focus on <span class="font-weight-bold">Excellence, Accuracy</span> and <span class="font-weight-bold">Time management;</span> 
+        the major attributive requirements expected of them in their examination.
+		</p>
+		<p class="text-muted">
+        Economically, Quizyclopedia has been designed to be cost efficient; saving the cost of buying several past questions and answers for several examinations, you can just have all you need on the platform
+        with a single subscription value. AWESOME! I guess...
+		</p>
+		<p class="text-muted">
+        Other features and benefits derivable from this application includes reliability of test result (well designed to mitigate Electronic manipulations),
+        unbiased Test Administration and Scoring, fewer comprehension errors caused by testing process, evolutionary innovative step towards future examination 
+        methodology.
+		</p>
+		<p class="text-muted">
+        What then are you waiting for? Join the Success team. Sign up to Quizyclopedia!
+		</p></div></div></div></section><section class="bg-light text-center" id="body">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">Examination Bodies</h2>
+          <h3 class="section-subheading text-muted">We have Past Exam Questions of the following bodies and more...</h3>
+        </div>
+      </div>
+      <div class="row"><div class="col-md-4 col-sm-6 portfolio-item p-5"><a class="portfolio-link" data-toggle="modal" href="#1"><div class="portfolio-hover">
+              <div class="portfolio-hover-content">
+                Read More
+              </div>
+            </div><object class="img-fluid img-responsive img-thumbnail" width="180" height="36" type="image/svg+xml" data="http://127.0.0.1/final/assets/brand/waec.svg"></object></a><div class="portfolio-caption"><h6>West African Examination Council</h6><p class="text-muted"><p><strong>(WAEC)</strong> is an examination board that con...</p></p></div></div><div class="col-md-4 col-sm-6 portfolio-item p-5"><a class="portfolio-link" data-toggle="modal" href="#2"><div class="portfolio-hover">
+              <div class="portfolio-hover-content">
+                Read More
+              </div>
+            </div><object class="img-fluid img-responsive img-thumbnail" width="180" height="36" type="image/svg+xml" data="http://127.0.0.1/final/assets/brand/neco.svg"></object></a><div class="portfolio-caption"><h6>National Examination Council</h6><p class="text-muted"><p><strong>NECO</strong> was created by former Head of State, Abdulsalami Abubakar...</p></p></div></div><div class="col-md-4 col-sm-6 portfolio-item p-5"><a class="portfolio-link" data-toggle="modal" href="#3"><div class="portfolio-hover">
+              <div class="portfolio-hover-content">
+                Read More
+              </div>
+            </div><object class="img-fluid img-responsive img-thumbnail" width="180" height="36" type="image/svg+xml" data="http://127.0.0.1/final/assets/brand/lagos.svg"></object></a><div class="portfolio-caption"><h6>Lagos State Examinations Board</h6><p class="text-muted"><p>This body is responsible for conducting entrance examinations...</p></p></div></div><div class="col-md-4 col-sm-6 portfolio-item p-5"><a class="portfolio-link" data-toggle="modal" href="#4"><div class="portfolio-hover">
+              <div class="portfolio-hover-content">
+                Read More
+              </div>
+            </div><object class="img-fluid img-responsive img-thumbnail" width="180" height="36" type="image/svg+xml" data="http://127.0.0.1/final/assets/brand/jamb.svg"></object></a><div class="portfolio-caption"><h6>Joint Admission and Matriculation Board</h6><p class="text-muted"><p><strong> (JAMB)</strong> is a Nigerian entrance examination board for tertiary-level ...</p></p></div></div><div class="col-md-4 col-sm-6 portfolio-item p-5"><a class="portfolio-link" data-toggle="modal" href="#5"><div class="portfolio-hover">
+              <div class="portfolio-hover-content">
+                Read More
+              </div>
+            </div><object class="img-fluid img-responsive img-thumbnail" width="180" height="36" type="image/svg+xml" data="http://127.0.0.1/final/assets/brand/quizyclopedia.svg"></object></a><div class="portfolio-caption"><h6>General Assessment</h6><p class="text-muted"><p>Quizyclopedia does not only provide questions for students...</p></p></div></div><div class="col-md-4 col-sm-6 portfolio-item p-5"><a class="portfolio-link" data-toggle="modal" href="#6"><div class="portfolio-hover">
+              <div class="portfolio-hover-content">
+                Read More
+              </div>
+            </div><object class="img-fluid img-responsive img-thumbnail" width="180" height="36" type="image/svg+xml" data="http://127.0.0.1/final/assets/brand/quizyclopedia.svg"></object></a><div class="portfolio-caption"><h6>Post UTME</h6><p class="text-muted"><p><strong>POST UTME examinations&nbsp;</strong>are specifically conducted by vairious Tertiary Institutions...</p></p></div></div></div>
+      </div>
+  </section><section id="services">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">Our Services</h2>
+          <h3 class="section-subheading text-muted">We are available to help you with the following services</h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12">
+          <ul class="timeline">
+            <li>
+              <div class="timeline-image"><img class="rounded-circle img-fluid" src="http://127.0.0.1/final/assets/site/img/about/1.jpg" alt="web development"></div>
+              <div class="timeline-panel">
+                <div class="timeline-heading">
+                  <h4 class="subheading">Web/App Development</h4>
+                </div>
+                <div class="timeline-body">
+                  <p class="text-muted">We specialize in developing Web Sites and Applications  for School Administration, Hotel Management and other aspects of Business function.</p>
+                </div>
+              </div>
+            </li>
+            <li class="timeline-inverted">
+              <div class="timeline-image"><img class="rounded-circle img-fluid" src="http://127.0.0.1/final/assets/site/img/about/2.jpg" alt="Content Management"></div>
+              <div class="timeline-panel">
+                <div class="timeline-heading">
+                  <h4 class="subheading">Content Management</h4>
+                </div>
+                <div class="timeline-body">
+                  <p class="text-muted">Tell us your stories, and we will organize and consolidate pieces of content (text, graphics, and multimedia clips) in the most efficient way for you.</p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="timeline-image"><img class="rounded-circle img-fluid" src="http://127.0.0.1/final/assets/site/img/about/3.jpg" alt="Graphic Design"></div>
+              <div class="timeline-panel">
+                <div class="timeline-heading">
+                  <h4 class="subheading">Graphic Design</h4>
+                </div>
+                <div class="timeline-body">
+                  <p class="text-muted">We skillfully combine text and pictures in creating logo and special graphics for advertisements, magazines, books and more...</p>
+                </div>
+              </div>
+            </li>
+            <li class="timeline-inverted">
+              <div class="timeline-image"><img class="rounded-circle img-fluid" src="http://127.0.0.1/final/assets/site/img/about/4.jpg" alt="career counselor"></div>
+              <div class="timeline-panel">
+                <div class="timeline-heading">
+                  <h4 class="subheading">Educational/Career Counseling</h4>
+                </div>
+                <div class="timeline-body">
+                  <p class="text-muted">We help build professional relationship that empowers you to accomplish education and career goals. Our Counselor would guide you in making the right choice of career in life.</p>
+                </div>
+              </div>
+            </li>
+            <li class="timeline-inverted">
+              <div class="timeline-image">
+                <h4>We are
+                  <br>available
+                  <br>for you!</h4>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section><section id="contact">
+    <div class="container"><div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">Contact Us</h2>
+          <h3 class="section-subheading text-muted">We would like to hear from you.</h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12"><form action="http://127.0.0.1/final/" method="post" accept-charset="utf-8">
+<input type="hidden" name="csrf_quizyclopedia" value="2480d6b118ea297b660831b50f08dcaa" />                             
+<div class="row">
+              <div class="col-md-6">
+                <div class="form-group"><input type="text" name="name" value="" required="required" required autocomplete="off" placeholder="Your Name *"  class="form-control" />
+<p class="help-block text-danger"></p>
+                </div>
+                <div class="form-group"><input type="email" name="email" value="" required="required" required autocomplete="off" placeholder="Your Email *"  class="form-control" />
+<p class="help-block text-danger"></p>
+                </div>
+                <div class="form-group"><input type="tel" name="phone" value="" required="required" required autocomplete="off" placeholder="Your Phone *"  class="form-control" />
+<p class="help-block text-danger"></p>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="form-group"><textarea name="message" cols="40" rows="10" required="required" required autocomplete="off" placeholder="Your Message *" value=""  class="form-control"></textarea>
+<p class="help-block text-danger"></p>
+                </div>
+              </div>
+              <div class="clearfix"></div>
+              <div class="col-lg-12 text-center">
+                <div id="success"></div><button name="submit" type="submit"  class="btn btn-primary btn-xl text-uppercase">Send Message</button>
+</div>
+            </div></form></div>
+      </div>
+    </div>
+  </section><footer class="bg-dark">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4"><span class="copyright text-white">Copyright &copy; Quizyclopedia2019</span></div>
+        <div class="col-md-4">
+          <ul class="list-inline social-buttons">
+            <li class="list-inline-item">
+              <a href="#">
+                <i class="fab fa-twitter"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">
+                <i class="fab fa-facebook-f"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">
+                <i class="fab fa-linkedin-in"></i>
+              </a>
+            </li>
+          </ul>
+        </div><div class="col-md-4">
+          <ul class="list-inline quicklinks">
+            <li class="list-inline-item">
+              <a data-toggle="modal" data-target="#policy" href="">Privacy Policy</a>
+            </li>
+            <li class="list-inline-item">
+              <a data-toggle="modal" data-target="#terms" href="">Terms of Use</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer><div class="modal fade" id="policy" tabindex="-1" role="dialog" aria-labelledby="policyTitle" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 class="modal-title" id="policyTitle">Privacy Policy</h2>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+    <p>We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us.</p>                        
+
+    <p>This Privacy Policy governs the privacy policies and practices of our Website, located at Quizyclopedia.com. Please read our Privacy Policy carefully as it will help you make informed decisions about sharing your personal information with us.</p>
+
+    <p>We last updated our Privacy Policy on 19 February 2019.</p>
+
+    <p><strong>Information We Collect</strong></p>
+    <p>As a Visitor, you can browse our Website to find out more about our Website. You are not required to provide us with any personal information as a Visitor.</p>
+
+    <p>We collect your personal information when you register with us ("User"), when you express an interest in obtaining information about us or our products and services, when you participate in activities on our Website Site (such as practicing questions) or otherwise contacting us.</p>
+
+    <p>Generally, we control the amount and type of information you provide to us when using our Website. The personal information we collect can include the following:</p>
+
+    <ul>
+        <li>Name, Email Address and Contact Data</li>
+        <li>Payment Information. If you choose to be a subscriber, we collect payment information through our payment processor. All payment information is securely stored by our payment processor and we do not have access to your sensitive information, such as credit card number or security code.</li>
+    </ul>
+
+    <p><strong>Automatically Collected Information</strong></p>
+
+    <p>When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website. Such information is typically considered non-personal information. We also collect the following:</p>
+
+    <ul>
+        <li>
+            <p><strong>Cookies</strong><br>Our Website uses "Cookies" to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place Personally Identifiable Information in Cookies.</p>
+        </li>
+        <li>
+            <p><strong>Third Party Tracking Tools</strong><br>We also use third party tracking tools to improve the performance and features of our Website. These third party tracking tools are designed to collect only non-personal information about your use of our Website. However, you understand that such tools are created and managed by parties outside our control. As such, we are not responsible for what information is actually captured by such third parties or how such third parties use and protect that information.</p>
+        </li>
+        <li>
+            <p><strong>Log Information</strong><br>We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you're headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.</p>
+        </li>
+    </ul>
+
+    <p><strong>How and Why We Use Your Personal Information</strong></p>
+    <p>We use the information we receive from you as follows:</p>
+
+    <ul>
+        <li>
+            <p><strong>To allow you to create a Policy.</strong><br>We use your information to create a Policy.</p>
+        </li>
+        <li>
+            <p><strong>To customizing our Website for your experience.</strong><br>We may use the information information you provide to us along with any computer information we receive to customize our Website.</p>
+        </li>
+        <li>
+            <p><strong>For data aggregation purposes</strong><br>We retain the right to collect and use any non-personal information collected from your use of our Website and aggregate such data for internal analytics that improve our Website and Service as well as for use or resale to others. At no time is your personally identifiable information included in such data aggregations.</p>
+        </li>
+    </ul>
+
+    <p><strong>Transfer Of Your Personal Information</strong></p>
+    <p>Your information, including personal information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
+    <p>We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your personal information will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
+
+    <p><strong>Disclosure Of Your Personal Information</strong></p>
+    <p>If we are involved in a merger, acquisition or asset sale, your personal information may be transferred. We will provide notice before your personal information is transferred and becomes subject to a different Privacy Policy.</p>
+    <p>Under certain circumstances, we may be required to disclose your personal information if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).</p>
+
+    <p><strong>Retention of Your Personal Information</strong></p>    
+    <p>We will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.</p>
+
+    <p><strong>Information Regarding Your Data Protection Rights Under General Data Protection Regulation (GDPR)</strong></p>
+    <p>For the purpose of this Privacy Policy, we are a Data Controller of your personal information.</p>
+
+    <p>If you are from the European Economic Area (EEA), our legal basis for collecting and using your personal information, as described in this Privacy Policy, depends on the information we collect and the specific context in which we collect it. We may process your personal information because:</p>
+    <ul>
+        <li>We need to perform a contract with you</li>
+        <li>You have given us permission to do so</li>
+        <li>The processing is in our legitimate interests and it's not overridden by your rights</li>
+        <li>For payment processing purposes</li>
+        <li>To comply with the law</li>
+    </ul>
+
+    <p>If you are a resident of the European Economic Area (EEA), you have certain data protection rights. In certain circumstances, you have the following data protection rights:</p>
+    <ul>
+        <li>The right to access, update or to delete the personal information we have on you</li>
+        <li>The right of rectification</li> 
+        <li>The right to object</li>
+        <li>The right of restriction</li>
+        <li>The right to data portability</li>
+        <li>The right to withdraw consent</li>
+    </ul>
+    <p>Please note that we may ask you to verify your identity before responding to such requests.</p>
+
+    <p>You have the right to complain to a Data Protection Authority about our collection and use of your personal information. For more information, please contact your local data protection authority in the European Economic Area (EEA).</p>
+
+    <p><strong>Service Providers</strong></p>
+    <p>We employ third party companies and individuals to facilitate our Website ("Service Providers"), to provide our Website on our behalf, to perform Website-related services or to assist us in analyzing how our Website is used. These third-parties have access to your personal information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p> 
+    <ul>
+        <li>
+            <p><strong>Analytics</strong></p>
+            <ul>
+                <li>
+                    <p>Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.</p>
+                    <p>You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.</p>
+                    <p>For more information on the privacy practices of Google, please visit the Google Privacy &amp; Terms web page: <a href="http://www.google.com/intl/en/policies/privacy/">http://www.google.com/intl/en/policies/privacy/</a></p>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <p><strong>Payments processors</strong></p>
+            <p>We provide paid products and/or services on our Website. In that case, we use third-party services for payment processing (e.g. paystack).</p>
+            <p>We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council.</p>
+        </li>
+    </ul>
+
+    <p><strong>Protecting Your Child's Privacy</strong></p>
+    <p>Our Website is not designed for use by anyone under the age of 8 ("Child"), though we realize we may have a Child attempt to make purchases through our Website. We do not verify the age of our Users nor do we have any liability for verifying a User's age. If you are a Child, please seek the permission of a parent or guardian before using our Website.If you are a parent or guardian and believe your Child is using our Website, please contact us to remove your Child's account; we reserve the right to ask you for verification of your relationship to the Child before we honor such a request. If we discover that a Child has created an account on our Website, we will immediately delete the account as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties. However, as parent of such a Child, you understand that you are legally liable for any transactions created by the Child.</p>
+
+    <p><strong>Links to Third-Pary Websites</strong></p>
+    <p>Our Website may contain links to other websites that are not under our direct control. These websites may have their own policies regarding privacy. We have no control of or responsibility for linked websites and provide these links solely for the convenience and information of our visitors. You access such linked Websites at your own risk. These websites are not subject to this Privacy Policy. You should check the privacy policies, if any, of those individual websites to see how the operators of those third-party websites will utilize your personal information. In addition, these websites may contain a link to Websites of our affiliates. The websites of our affiliates are not subject to this Privacy Policy, and you should check their individual privacy policies to see how the operators of such websites will utilize your personal information.</p>
+
+    <p><strong>Our Email Policy</strong></p>
+    <p>Our affiliates and we fully comply with national laws regarding SPAM. You can always opt out of receipt of further email correspondence from us and/or our affiliates. We agree that we will not sell, rent, or trade your email address to any unaffiliated third-party without your permission.</p>
+
+    <p><strong>Updates to Our Privacy Policy</strong></p>
+    <p>We reserve the right to modify this Privacy Policy at any time. If we make material changes to this policy, we may notify you on our Website, by a blog post, by email, or by any method we determine. The method we chose is at our sole discretion. We will also change the "Last Updated" date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies.</p>
+
+    <p><strong>Contact Us</strong></p>
+    <p>If you have any questions about our Privacy Practices or this Policy, please contact us.</p>
+
+
+</div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div><div class="modal fade" id="terms" tabindex="-1" role="dialog" aria-labelledby="termsTitle" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 class="modal-title" id="termsTitle">Terms of Use</h2>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+<p>Quizyclopedia website located at quizyclopedia.com is a copyrighted work belonging to ZaloTech Solutions. Certain features of the Site may be subject to additional guidelines, terms, or rules, which will be posted on the Site in connection with such features.</p>
+
+<p>All such additional terms, guidelines, and rules are incorporated by reference into these Terms.</p>
+
+<p>These Terms of Use described the legally binding terms and conditions that oversee your use of the Site. BY LOGGING INTO THE SITE, YOU ARE BEING COMPLIANT THAT THESE TERMS and you represent that you have the authority and capacity to enter into these Terms. YOU SHOULD BE AT LEAST 18 YEARS OF AGE TO REGISTER ON THIS SITE. IF YOU DISAGREE WITH ALL OF THE PROVISION OF THESE TERMS, DO NOT LOG INTO AND/OR USE THE SITE.<p>
+
+
+<h4>Access to the Site</h4>
+
+<p><strong>Subject to these Terms:</strong> Quizyclopedia grants you a non-transferable, non-exclusive, revocable, limited license to access the Site solely for your own personal, noncommercial use.</p>
+
+<p><strong>Certain Restrictions:</strong> The rights approved to you in these Terms are subject to the following restrictions: (a) you shall not sell, rent, lease, transfer, assign, distribute, host, or otherwise commercially exploit the Site; (b) you shall not change, make derivative works of, disassemble, reverse compile or reverse engineer any part of the Site; (c) you shall not access the Site in order to build a similar or competitive website; and (d) except as expressly stated herein, no part of the Site may be copied, reproduced, distributed, republished, downloaded, displayed, posted or transmitted in any form or by any means unless otherwise indicated, any future release, update, or other addition to functionality of the Site shall be subject to these Terms.  All copyright and other proprietary notices on the Site must be retained on all copies thereof.</p>
+
+<p>Quizyclopedia reserves the right to change, suspend, or cease the Site with or without notice to you.  You approved that Quizyclopedia will not be held liable to you or any third-party for any change, interruption, or termination of the Site or any part.</p>
+
+<p><strong>No Support or Maintenance:</strong> You agree that Quizyclopedia will have no obligation to provide you with any support in connection with the Site.</p>
+
+<p>Excluding any User Content that you may provide, you are aware that all the intellectual property rights, including copyrights, patents, trademarks, and trade secrets, in the Site and its content are owned by Quizyclopedia or Quizyclopedia’s suppliers. Note that these Terms and access to the Site do not give you any rights, title or interest in or to any intellectual property rights. Quizyclopedia and its suppliers reserve all rights not granted in these Terms.</p>
+
+
+<h4>Third-Party Links & Ads; Other Users</h4>
+
+<p><strong>Third-Party Links & Ads:</strong> The Site may contain links to third-party websites and services, and/or display advertisements for third-parties.  Such Third-Party Links & Ads are not under the control of Quizyclopedia, and Quizyclopedia is not responsible for any Third-Party Links & Ads.  Quizyclopedia provides access to these Third-Party Links & Ads only as a convenience to you, and does not review, approve, monitor, endorse, warrant, or make any representations with respect to Third-Party Links & Ads.  You use all Third-Party Links & Ads at your own risk, and should apply a suitable level of caution and discretion in doing so. When you click on any of the Third-Party Links & Ads, the applicable third party’s terms and policies apply, including the third party’s privacy and data gathering practices.</p>
+
+<p><strong>Other Users:</strong> Each Site user is solely responsible for any and all of its own User Content.  Because we do not control User Content, you acknowledge and agree that we are not responsible for any User Content, whether provided by you or by others.  You agree that Quizyclopedia will not be responsible for any loss or damage incurred as the result of any such interactions.  If there is a dispute between you and any Site user, we are under no obligation to become involved.</p>
+
+<p>You hereby release and forever discharge Quizyclopedia and our officers, employees, agents, successors, and assigns from, and hereby waive and relinquish, each and every past, present and future dispute, claim, controversy, demand, right, obligation, liability, action and cause of action of every kind and nature, that has arisen or arises directly or indirectly out of, or that relates directly or indirectly to, the Site. </p>
+
+<p><strong>Cookies and Web Beacons:</strong> Like any other website, Quizyclopedia uses ‘cookies’. These cookies are used to store information including visitors’ preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users’ experience by customizing our web page content based on visitors’ browser type and/or other information.</p>
+
+
+
+<h4>Disclaimers</h4>
+
+<p>The site is provided on an "as-is" and "as available" basis, and Quizyclopedia and our suppliers expressly disclaim any and all warranties and conditions of any kind, whether express, implied, or statutory, including all warranties or conditions of merchantability, fitness for a particular purpose, title, quiet enjoyment, accuracy, or non-infringement.  We and our suppliers make not guarantee that the site will meet your requirements, will be available on an uninterrupted, timely, secure, or error-free basis, or will be accurate, reliable, free of viruses or other harmful code, complete, legal, or safe.  </p>
+
+<h4>Limitation on Liability</h4>
+
+<p>To the maximum extent permitted by law, in no event shall Quizyclopedia or our suppliers be liable to you or any third-party for any lost profits, lost data, costs of subscription, or any indirect, consequential, exemplary, incidental, special or punitive damages arising from or relating to these terms or your use of, or incapability to use the site even if Quizyclopedia has been advised of the possibility of such damages.  Access to and use of the site is at your own discretion and risk, and you will be solely responsible for any damage to your device or computer system, or loss of data resulting therefrom.</p>
+
+<p><strong>Term and Termination:</strong> Subject to this Section, these Terms will remain in full force and effect while you use the Site.  We may suspend or terminate your rights to use the Site at any time for any reason at our sole discretion, including for any use of the Site in violation of these Terms.  Upon termination of your rights under these Terms, your Account and right to access and use the Site will terminate immediately.  You understand that any termination of your Account may involve deletion of your User Content associated with your Account from our live databases.  Quizyclopedia will not have any liability whatsoever to you for any termination of your rights under these Terms.  Even after your rights under these Terms are terminated, the following provisions of these Terms will remain in effect: Sections 2 through 2.5, Section 3 and Sections 4 through 10.</p>
+
+<h4>Copyright Policy</h4>
+
+<p>Quizyclopedia respects the intellectual property of others and asks that users of our Site do the same.  In connection with our Site, we have adopted and implemented a policy respecting copyright law that provides for the removal of any infringing materials and for the termination of users of our online Site who are repeated infringers of intellectual property rights, including copyrights.  If you believe that one of our users is, through the use of our Site, unlawfully infringing the copyright(s) in a work, and wish to have the allegedly infringing material removed, the following information in the form of a written notification must be provided to our designated Copyright Agent:</p>
+
+<ul>
+    <li>your physical or electronic signature;</li>
+    <li>identification of the copyrighted work(s) that you claim to have been infringed;</li>
+    <li>identification of the material on our services that you claim is infringing and that you request us to remove;</li>
+    <li>sufficient information to permit us to locate such material;</li>
+    <li>your address, telephone number, and e-mail address;</li>
+    <li>a statement that you have a good faith belief that use of the objectionable material is not authorized by the copyright owner, its agent, or under the law; and</li>
+    <li>a statement that the information in the notification is accurate, and under penalty of perjury, that you are either the owner of the copyright that has allegedly been infringed or that you are authorized to act on behalf of the copyright owner.</li>
+</ul>
+
+<p>Please note that any misrepresentation of material fact in a written notification automatically subjects the complaining party to liability for any damages, costs and attorney’s fees incurred by us in connection with the written notification and allegation of copyright infringement.</p>
+
+<h4>General</h4>
+
+<p>These Terms are subject to occasional revision, and if we make any substantial changes, we may notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site.  You are responsible for providing us with your most current e-mail address.  In the event that the last e-mail address that you have provided us is not valid our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice.  Any changes to these Terms will be effective upon the earliest of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site.  These changes will be effective immediately for new users of our Site.  Continued use of our Site following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+Dispute Resolution. Please read this Arbitration Agreement carefully. It is part of your contract with Quizyclopedia and affects your rights.  It contains procedures for MANDATORY BINDING ARBITRATION AND A CLASS ACTION WAIVER.</p>
+
+<p><strong>Applicability of Arbitration Agreement:</strong> All claims and disputes in connection with the Terms or the use of any product or service provided by Quizyclopedia that cannot be resolved informally or in small claims court shall be resolved by binding arbitration on an individual basis under the terms of this Arbitration Agreement.  Unless otherwise agreed to, all arbitration proceedings shall be held in English.  This Arbitration Agreement applies to you and Quizyclopedia, and to any subsidiaries, affiliates, agents, employees, predecessors in interest, successors, and assigns, as well as all authorized or unauthorized users or beneficiaries of services or goods provided under the Terms.</p>
+
+<p><strong>Notice Requirement and Informal Dispute Resolution:</strong> Before either party may seek arbitration, the party must first send to the other party a written Notice of Dispute describing the nature and basis of the claim or dispute, and the requested relief.  A Notice to Quizyclopedia should be sent to: Lagos, Nigeria. After the Notice is received, you and Quizyclopedia may attempt to resolve the claim or dispute informally.  If you and Quizyclopedia do not resolve the claim or dispute within thirty (30) days after the Notice is received, either party may begin an arbitration proceeding.  The amount of any settlement offer made by any party may not be disclosed to the arbitrator until after the arbitrator has determined the amount of the award to which either party is entitled.</p>
+
+<p><strong>Waiver of Jury Trial:</strong> THE PARTIES HEREBY WAIVE THEIR CONSTITUTIONAL AND STATUTORY RIGHTS TO GO TO COURT AND HAVE A TRIAL IN FRONT OF A JUDGE OR A JURY, instead electing that all claims and disputes shall be resolved by arbitration.  In the event any litigation should arise between you and Quizyclopedia in any state or federal court in a suit to vacate or enforce an arbitration award or otherwise, YOU AND THE COMPANY WAIVE ALL RIGHTS TO A JURY TRIAL, instead electing that the dispute be resolved by a judge.</p>
+
+<p><strong>Waiver of Class or Consolidated Actions:</strong> All claims and disputes within the scope of this arbitration agreement must be arbitrated or litigated on an individual basis and not on a class basis, and claims of more than one customer or user cannot be arbitrated or litigated jointly or consolidated with those of any other customer or user.</p>
+
+<p><strong>Confidentiality:</strong> All aspects of the arbitration proceeding shall be strictly confidential.  The parties agree to maintain confidentiality unless otherwise required by law.  This paragraph shall not prevent a party from submitting to a court of law any information necessary to enforce this Agreement, to enforce an arbitration award, or to seek injunctive or equitable relief.</p>
+
+<p><strong>Severability:</strong> If any part or parts of this Arbitration Agreement are found under the law to be invalid or unenforceable by a court of competent jurisdiction, then such specific part or parts shall be of no force and effect and shall be severed and the remainder of the Agreement shall continue in full force and effect.</p>
+
+<p><strong>Right to Waive:</strong> Any or all of the rights and limitations set forth in this Arbitration Agreement may be waived by the party against whom the claim is asserted.  Such waiver shall not waive or affect any other portion of this Arbitration Agreement.</p>
+
+<p><strong>Survival of Agreement:</strong> This Arbitration Agreement will survive the termination of your relationship with Quizyclopedia.</p>
+
+<p><strong>Small Claims Court:</strong> Nonetheless the foregoing, either you or Quizyclopedia may bring an individual action in small claims court.</p>
+
+<p><strong>Emergency Equitable Relief:</strong> Anyhow the foregoing, either party may seek emergency equitable relief before a state or federal court in order to maintain the status quo pending arbitration.  A request for interim measures shall not be deemed a waiver of any other rights or obligations under this Arbitration Agreement.</p>
+
+<p><strong>Claims Not Subject to Arbitration:</strong> Notwithstanding the foregoing, claims of defamation, violation of the Computer Fraud and Abuse Act, and infringement or misappropriation of the other party’s patent, copyright, trademark or trade secrets shall not be subject to this Arbitration Agreement.</p>
+
+<p>In any circumstances where the foregoing Arbitration Agreement permits the parties to litigate in court, the parties hereby agree to submit to the personal jurisdiction of the courts located within Netherlands County, California, for such purposes.</p>
+
+<p><strong>Electronic Communications:</strong> The communications between you and Quizyclopedia use electronic means, whether you use the Site or send us emails, or whether Quizyclopedia posts notices on the Site or communicates with you via email. For contractual purposes, you (a) consent to receive communications from Quizyclopedia in an electronic form; and (b) agree that all terms and conditions, agreements, notices, disclosures, and other communications that Quizyclopedia provides to you electronically satisfy any legal obligation that such communications would satisfy if it were be in a hard copy writing.</p>
+
+<p><strong>Entire Terms:</strong> These Terms constitute the entire agreement between you and us regarding the use of the Site. Our failure to exercise or enforce any right or provision of these Terms shall not operate as a waiver of such right or provision. The section titles in these Terms are for convenience only and have no legal or contractual effect. The word "including" means "including without limitation". If any provision of these Terms is held to be invalid or unenforceable, the other provisions of these Terms will be unimpaired and the invalid or unenforceable provision will be deemed modified so that it is valid and enforceable to the maximum extent permitted by law.  Your relationship to Quizyclopedia is that of an independent contractor, and neither party is an agent or partner of the other.  These Terms, and your rights and obligations herein, may not be assigned, subcontracted, delegated, or otherwise transferred by you without Quizyclopedia’s prior written consent, and any attempted assignment, subcontract, delegation, or transfer in violation of the foregoing will be null and void.  Quizyclopedia may freely assign these Terms.  The terms and conditions set forth in these Terms shall be binding upon assignees.</p>
+
+<p><strong>Copyright/Trademark Information:</strong> Copyright ©. All rights reserved.  All trademarks, logos and service marks displayed on the Site are our property or the property of other third-parties. You are not permitted to use these Marks without our prior written consent or the consent of such third party which may own the Marks.</p>
+
+<h4>Contact Information</h4>
+
+<p>Phone: +234 705 981 1131</p>
+<p>Email: info@quizyclopedia.com</p></div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div><div class="portfolio-modal modal fade" id="1" tabindex="-1" role="dialog" aria-hidden="true">
+  
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <h2 class="text-uppercase">West African Examination Council</h2>
+                <img class="img-fluid d-block mx-auto" src="http://127.0.0.1/final/assets/brand/waec.svg" alt="West African Examination Council">
+                <p><strong>THE WEST AFRICAN EXAMINATIONS COUNCIL (WAEC)&nbsp;</strong>is an examination board that conducts the West African Senior School Certificate Examination for University and Jamb Entry Examination in West Afrian Countries.&nbsp;</p>
+<p>WAEC was established in 1952, the council has contributed to education in Anglophonic countries of West Africa (Ghana, Nigeria, Sierra Leone, Liberia and Gambia).</p>
+<p>Although, they conduct several examinations, this platform is limited to two of their examinations conducted in Nigeria, and they include the following:</p>
+<p><strong>WASSCE FOR SCHOOL CANDIDATES (MAY/JUNE)</strong></p>
+<p>This is the examination conducted for students in their final class of the secondary. This examination is a prerequisite for sitting for the Joint Admission and Matriculation's Board Examination.</p>
+<p><strong>JUNIOR SECONDARY SCHOOL CERTIFICATE FOR NIGERIA</strong></p>
+<p>This is examination conducted for students at their final level of the JS class otherwise known today as Basic 9.</p>
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Body</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div><div class="portfolio-modal modal fade" id="2" tabindex="-1" role="dialog" aria-hidden="true">
+  
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <h2 class="text-uppercase">National Examination Council</h2>
+                <img class="img-fluid d-block mx-auto" src="http://127.0.0.1/final/assets/brand/neco.svg" alt="National Examination Council">
+                <p><strong>NECO&nbsp;</strong> was created by former Head of State, Abdulsalami Abubakar in&nbsp;<strong>April&nbsp;</strong><strong>1999</strong>. It was teh first Federal Organisation to offer subsidized registration to academic candidates in Nigeria.</p>
+<p>The examinations conducted by NECO and which are available on this platform includes the following:</p>
+<p><strong>BASIC EDUCATION CERTIFICATION EXAMINATION(BECE)</strong></p>
+<p>To transit from the ninth year of the basic education class to the senior secondary, the BECE is conducted for candidates in their third year of the Junior Secondary School. This examination is the 'Junior WAEC' of the NECO as a body.&nbsp;</p>
+<p>Although, while each state of the federation and the FCT conducts the BECE for its candidates, NECO conducts the BECE for Federal Unity Colleges, Armed Forces Secondary Schools and other Federal establishments operating Secondary Schools. Private Secondary schools also take part in the NECO BECE provided they are permitted by their State Ministries of Education.</p>
+<p><strong>SENIOR SCHOOL CERTIFICATE EXAMINATION (SSCE)</strong></p>
+<p>This is the examination taken by candidates in their last stage of Secondary School of Education. The SSCE is in two categories. One is for candidates in the third and final year of their senior secondary education and it is called&nbsp;<strong>SSCE Internal&nbsp;</strong>while the second is <strong>SSCE External</strong> and is for candiates not in the School system, otherwise referred to as <strong>GCE</strong>.</p>
+<p>&nbsp;</p>
+<p><strong>NATIONAL COMMON ENTRANCE EXAMINATION (NCEE)</strong></p>
+<p>The National Common Entrance Examination is for admission into Junior Secondary School (<strong>JSS1</strong>) of Federal Government Unity Colleges. Only Final year pupils of Primary Schools are eligible for the exams.</p>
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Body</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div><div class="portfolio-modal modal fade" id="3" tabindex="-1" role="dialog" aria-hidden="true">
+  
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <h2 class="text-uppercase">Lagos State Examinations Board</h2>
+                <img class="img-fluid d-block mx-auto" src="http://127.0.0.1/final/assets/brand/lagos.svg" alt="Lagos State Examinations Board">
+                <p><strong>LAGOS STATE EXAMINATIONS BOARD</strong></p>
+<p>This body is responsible for conducting entrance examinations into all Lagos State owned schools. On this platform, you have access to the&nbsp;<strong>Common Entrance&nbsp;</strong>Examination questions conducted in past into Model Colleges owned by Lagos State.</p>
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Body</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div><div class="portfolio-modal modal fade" id="4" tabindex="-1" role="dialog" aria-hidden="true">
+  
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <h2 class="text-uppercase">Joint Admission and Matriculation Board</h2>
+                <img class="img-fluid d-block mx-auto" src="http://127.0.0.1/final/assets/brand/jamb.svg" alt="Joint Admission and Matriculation Board">
+                <p><strong>JOINT ADMISSIONS AND MATRICULATION BOARD</strong> (JAMB) is a Nigerian entrance examination board for tertiary-level institutions. the board conducts entrance examinations for prospective undergraduates into Nigerian Universities.</p>
+<p>The board is also charged with the responsiblity to administer similar examinations for applicants to Nigerian publci and private monotechnic, polytechnics, and colleges of educations.</p>
+<p>JAMB is currently a computer based examination, therefore, this platform offers intending candidates the opportunity to get acquainted with the examination procedures.</p>
+<p>There are Past Questions and suggested solutions arranged by Years on this platform for practice.</p>
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Body</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div><div class="portfolio-modal modal fade" id="5" tabindex="-1" role="dialog" aria-hidden="true">
+  
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <h2 class="text-uppercase">General Assessment</h2>
+                <img class="img-fluid d-block mx-auto" src="http://127.0.0.1/final/assets/brand/quizyclopedia.svg" alt="General Assessment">
+                <p><strong>GENERAL ASSESSMENT</strong></p>
+<p>Quizyclopedia does not only provide questions for students alone. It is a platform for everyone who wants to evaluates their knowlege on any subject matter ranging from religion, sports to politics and so on.</p>
+<p>You can access General Questions compilations for the same subscription value. Presently, the platform is loaded with Questions on&nbsp;<strong>Christian Religion, Islamic Religion, Nigerian Current Affairs and Sports.</strong> We promise to bring more your way. Our goal is to make sure you have a quality access to education at a low cost.</p>
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Body</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div><div class="portfolio-modal modal fade" id="6" tabindex="-1" role="dialog" aria-hidden="true">
+  
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <h2 class="text-uppercase">Post UTME</h2>
+                <img class="img-fluid d-block mx-auto" src="http://127.0.0.1/final/assets/brand/quizyclopedia.svg" alt="Post UTME">
+                <p><strong>POST UTME examinations&nbsp;</strong>are specifically conducted by vairious Tertiary Institutions as an Internal Assessment for every students who took part in the JAMB examination for that period.</p>
+<p>Presently, we have Past Examinations and Answers for the following schools and we are working rigourously to include many more institutions:</p>
+<p>1.&nbsp;<strong>University of Lagos</strong></p>
+<p><strong>2. University of Ilorin</strong></p>
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Close Body</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div><script src="http://127.0.0.1/final/assets/site/vendor/jquery/jquery.min.js"></script><script src="http://127.0.0.1/final/assets/site/vendor/bootstrap/js/bootstrap.bundle.min.js"></script><script src="http://127.0.0.1/final/assets/site/vendor/jquery-easing/jquery.easing.min.js"></script><script src="http://127.0.0.1/final/assets/site/js/jqBootstrapValidation.js"></script><script src="http://127.0.0.1/final/assets/site/js/contact_me.js"></script><script src="http://127.0.0.1/final/assets/site/js/agency.min.js"></script><script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script><script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script><script src="http://127.0.0.1/final/assets/js/vendor/bootstrap.min.js"></script><script src="http://127.0.0.1/final/assets/js/main.js"></script><script language="JavaScript" type="text/javascript">
+        $(document).ready(function(){
+           $("a.delete").click(function(e){
+               if(!confirm('Do you know what you are doing?')){
+                   e.preventDefault();
+                   return false;
+               }
+               return true;
+           });
+        });
+    </script></body></html>
