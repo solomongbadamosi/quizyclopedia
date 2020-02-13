@@ -1,0 +1,7 @@
+
+
+#ignore all directory netbeans directory
+nbproject/
+
+#ignore all log files
+*.log
